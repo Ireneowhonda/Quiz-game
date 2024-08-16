@@ -38,7 +38,7 @@ const questions = [
     },
     {
         text: "What do the two horses on the Nigeria coat of arms represent?",
-        options: ["Dignity", "Sheild", "Power", "Unity"],
+        options: ["Dignity", "Shield", "Power", "Unity"],
         correct: "Dignity"
     },
     {
