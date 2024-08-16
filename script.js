@@ -42,7 +42,7 @@ const questions = [
         correct: "Dignity"
     },
     {
-        text: "How many geopolitiacal zones is Nigeria divided into?",
+        text: "How many geopolitical zones is Nigeria divided into?",
         options: ["36", "7", "12", "6"],
         correct: "6"
     },
